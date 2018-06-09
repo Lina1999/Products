@@ -1,0 +1,5 @@
+c:\users\mary\documents\visual studio 2017\Projects\Product\Product\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\mary\documents\visual studio 2017\Projects\Product\Product\bin\Debug\Product.dll
+c:\users\mary\documents\visual studio 2017\Projects\Product\Product\bin\Debug\Product.pdb
+c:\users\mary\documents\visual studio 2017\Projects\Product\Product\obj\Debug\Product.dll
+c:\users\mary\documents\visual studio 2017\Projects\Product\Product\obj\Debug\Product.pdb

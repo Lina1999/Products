@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MVCProduct.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="form-horizontal">
+
+    <hr />
+    <div class="form-group">
+
+        <table class="table table-responsive" style="width:400px">
+            <tr>
+                <th> ID </th>
+                <th> Name </th>
+                <th> Price </th>
+                <th> Group </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td> @item.ID </td>
+                    <td> @item.Name </td>
+                    <td> @item.Price </td>
+                    <td> @item.Group </td>
+                </tr>
+            }
+
+
+        </table>
+    </div>
+</div>
